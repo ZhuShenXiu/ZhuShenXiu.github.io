@@ -3,11 +3,11 @@
   <title>神秀!</title>
   
   <subtitle>知识分享!</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://zhushenxiu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://zhushenxiu.github.io/"/>
   <updated>2021-11-21T11:58:00.725Z</updated>
-  <id>http://example.com/</id>
+  <id>http://zhushenxiu.github.io/</id>
   
   <author>
     <name>ZhuLiang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>processing模拟随机地形生成</title>
-    <link href="http://example.com/2021/11/21/PROCESSING/PerlinNoise/"/>
-    <id>http://example.com/2021/11/21/PROCESSING/PerlinNoise/</id>
+    <link href="http://zhushenxiu.github.io/2021/11/21/PROCESSING/PerlinNoise/"/>
+    <id>http://zhushenxiu.github.io/2021/11/21/PROCESSING/PerlinNoise/</id>
     <published>2021-11-21T10:52:48.000Z</published>
     <updated>2021-11-21T11:58:00.725Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="PROCESSING" scheme="http://example.com/categories/PROCESSING/"/>
+    <category term="PROCESSING" scheme="http://zhushenxiu.github.io/categories/PROCESSING/"/>
     
     
-    <category term="PROCESSING" scheme="http://example.com/tags/PROCESSING/"/>
+    <category term="PROCESSING" scheme="http://zhushenxiu.github.io/tags/PROCESSING/"/>
     
   </entry>
   
   <entry>
     <title>浅谈链表</title>
-    <link href="http://example.com/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/"/>
-    <id>http://example.com/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/</id>
+    <link href="http://zhushenxiu.github.io/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/"/>
+    <id>http://zhushenxiu.github.io/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/</id>
     <published>2021-11-17T11:07:48.000Z</published>
     <updated>2021-11-19T12:27:20.675Z</updated>
     
@@ -49,17 +49,17 @@
     
     
     
-    <category term="数据结构" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://zhushenxiu.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://zhushenxiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
   <entry>
     <title>processing太空漫游</title>
-    <link href="http://example.com/2021/11/14/PROCESSING/fastStar/"/>
-    <id>http://example.com/2021/11/14/PROCESSING/fastStar/</id>
+    <link href="http://zhushenxiu.github.io/2021/11/14/PROCESSING/fastStar/"/>
+    <id>http://zhushenxiu.github.io/2021/11/14/PROCESSING/fastStar/</id>
     <published>2021-11-14T13:51:45.000Z</published>
     <updated>2021-11-21T10:45:23.905Z</updated>
     
@@ -70,17 +70,17 @@
     
     
     
-    <category term="PROCESSING" scheme="http://example.com/categories/PROCESSING/"/>
+    <category term="PROCESSING" scheme="http://zhushenxiu.github.io/categories/PROCESSING/"/>
     
     
-    <category term="PROCESSING" scheme="http://example.com/tags/PROCESSING/"/>
+    <category term="PROCESSING" scheme="http://zhushenxiu.github.io/tags/PROCESSING/"/>
     
   </entry>
   
   <entry>
     <title>皇后问题</title>
-    <link href="http://example.com/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/"/>
-    <id>http://example.com/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/</id>
+    <link href="http://zhushenxiu.github.io/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/"/>
+    <id>http://zhushenxiu.github.io/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/</id>
     <published>2021-11-14T12:36:45.000Z</published>
     <updated>2021-11-19T12:26:43.233Z</updated>
     
@@ -91,10 +91,10 @@
     
     
     
-    <category term="数据结构" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://zhushenxiu.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-    <category term="数据结构" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://zhushenxiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   

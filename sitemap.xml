@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/11/21/PROCESSING/PerlinNoise/</loc>
+    <loc>http://zhushenxiu.github.io/2021/11/21/PROCESSING/PerlinNoise/</loc>
     
     <lastmod>2021-11-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/14/PROCESSING/fastStar/</loc>
+    <loc>http://zhushenxiu.github.io/2021/11/14/PROCESSING/fastStar/</loc>
     
     <lastmod>2021-11-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/</loc>
+    <loc>http://zhushenxiu.github.io/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/</loc>
     
     <lastmod>2021-11-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/</loc>
+    <loc>http://zhushenxiu.github.io/2021/11/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/queenQuestion/</loc>
     
     <lastmod>2021-11-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://zhushenxiu.github.io/tags/index.html</loc>
     
     <lastmod>2021-11-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>http://zhushenxiu.github.io/link/index.html</loc>
     
     <lastmod>2021-11-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://zhushenxiu.github.io/categories/index.html</loc>
     
     <lastmod>2021-11-14</lastmod>
     
@@ -52,7 +52,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://zhushenxiu.github.io/</loc>
     <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -60,14 +60,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://zhushenxiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/PROCESSING/</loc>
+    <loc>http://zhushenxiu.github.io/tags/PROCESSING/</loc>
     <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,14 +76,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://zhushenxiu.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/PROCESSING/</loc>
+    <loc>http://zhushenxiu.github.io/categories/PROCESSING/</loc>
     <lastmod>2021-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
