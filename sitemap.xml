@@ -102,13 +102,6 @@
 
   
   <url>
-    <loc>http://zhushenxiu.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://zhushenxiu.github.io/tags/JavaWeb/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
@@ -116,7 +109,7 @@
   </url>
   
   <url>
-    <loc>http://zhushenxiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://zhushenxiu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -130,20 +123,20 @@
   </url>
   
   <url>
-    <loc>http://zhushenxiu.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/</loc>
+    <loc>http://zhushenxiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhushenxiu.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
-  
-  <url>
-    <loc>http://zhushenxiu.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-12-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://zhushenxiu.github.io/categories/JavaWeb/</loc>
@@ -153,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://zhushenxiu.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://zhushenxiu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -167,7 +160,14 @@
   </url>
   
   <url>
-    <loc>http://zhushenxiu.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/</loc>
+    <loc>http://zhushenxiu.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhushenxiu.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
