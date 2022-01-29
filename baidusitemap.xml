@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://ZhuShenXiu.github.io/2022/01/10/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/DCList/</loc>
+    <loc>http://ZhuShenXiu.github.io/2022/01/29/data_structure/BTree/</loc>
+    <lastmod>2022-01-29</lastmod>
+  </url>
+  <url>
+    <loc>http://ZhuShenXiu.github.io/2022/01/10/data_structure/DCList/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/04/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/circleQueue/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/04/data_structure/circleQueue/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/string/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/05/data_structure/string/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2022/01/05/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/matrix/</loc>
+    <loc>http://ZhuShenXiu.github.io/2022/01/05/data_structure/matrix/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/11/17/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/link/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/11/17/data_structure/link/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/11/25/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/doublelink/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/11/25/data_structure/doublelink/</loc>
     <lastmod>2022-01-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/17/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-17/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/17/%E8%AE%A1%E5%8D%8F/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-17/</loc>
     <lastmod>2021-12-17</lastmod>
   </url>
   <url>
@@ -33,31 +37,31 @@
     <lastmod>2021-12-12</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-10/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/10/%E8%AE%A1%E5%8D%8F/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-10/</loc>
     <lastmod>2021-12-10</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/04/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/stack/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/04/data_structure/stack/</loc>
     <lastmod>2021-12-05</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/03/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-3/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/03/%E8%AE%A1%E5%8D%8F/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9812-3/</loc>
     <lastmod>2021-12-03</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/11/26/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8D%8F%E4%BC%9A%E8%B5%84%E6%96%99/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9811-26/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/11/26/%E8%AE%A1%E5%8D%8F/%E8%AF%BE%E7%A8%8B%E4%B9%A0%E9%A2%9811-26/</loc>
     <lastmod>2021-12-03</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/12/01/%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83%E6%80%9D%E6%83%B3/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/12/01/algorithm/%E8%B4%AA%E5%BF%83%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2021-12-01</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/11/21/PROCESSING/PerlinNoise/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/11/21/processing/PerlinNoise/</loc>
     <lastmod>2021-11-26</lastmod>
   </url>
   <url>
-    <loc>http://ZhuShenXiu.github.io/2021/11/14/PROCESSING/fastStar/</loc>
+    <loc>http://ZhuShenXiu.github.io/2021/11/14/processing/fastStar/</loc>
     <lastmod>2021-11-24</lastmod>
   </url>
 </urlset> 
